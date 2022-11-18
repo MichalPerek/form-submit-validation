@@ -27,15 +27,18 @@ Simple React app with form containing fields:
 
 ### Preview
 
-image placeholder
+![image](https://user-images.githubusercontent.com/100487510/202670714-bf608389-4cf2-43a6-a5e8-ec0176240e7a.png)
+
+![image](https://user-images.githubusercontent.com/100487510/202670780-99844c73-a1b5-4933-8385-1eb8f1ddb437.png)
+
 
 ### Demo
 
-netlify link  placeholder
+https://reg-form-dev.netlify.app/
 
 ### To-do's
 
--Use validation schema with Yup
--Evaluate & fix warnings on unit tests (related to manipulating form state)
+- Use validation schema with Yup
+- Evaluate & fix warnings on unit tests (related to manipulating form state)
 
 
